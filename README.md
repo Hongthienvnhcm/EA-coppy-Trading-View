@@ -1,0 +1,1 @@
+# EA-coppy-Trading-View
