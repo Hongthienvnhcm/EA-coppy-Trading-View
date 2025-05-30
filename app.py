@@ -1,4 +1,5 @@
-# EA-coppy-Trading-View from flask import Flask, request
+# EA-coppy-Trading-View 
+from flask import Flask, request
 
 app = Flask(__name__)
 
